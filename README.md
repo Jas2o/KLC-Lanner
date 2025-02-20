@@ -11,6 +11,8 @@ It has some limited functionality to replay parts of Hawk capture files but unfo
 - Other modules are not yet simulated (Remote Control, CMD, PowerShell, Toolbox).
 - Some modules might accept Hawk capture file replays.
 
+![Screenshot of KLC-Lanner](/Resources/KLC-Lanner.png?raw=true)
+
 ## Required other repos to build (all the same as KLC-Hawk)
 - LibKaseya
 - LibKaseyaLiveConnect
